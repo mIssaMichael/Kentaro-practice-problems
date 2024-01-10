@@ -117,9 +117,8 @@ cat("Probability that mu_1 < mu_2", prob_mu1_less_than_mu2) # P = 0.936
 
 
 
-
-
-
+library(usethis)
+use_github()
 
 
 
